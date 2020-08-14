@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\nam3_hk2\ktlt\new folder\doan\doan\main.cpp(215): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\nam3_hk2\ktlt\new folder\doan\doan\main.cpp(446): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\nam3_hk2\ktlt\new folder\doan\doan\main.cpp(353): warning C4715: 'makeRandomList': not all control paths return a value
+  DoAn.vcxproj -> E:\Nam3_HK2\KTLT\New folder\DoAn\Debug\DoAn.exe
